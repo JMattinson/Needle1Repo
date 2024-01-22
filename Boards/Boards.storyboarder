@@ -1,0 +1,598 @@
+{
+  "version": "2.1.0",
+  "aspectRatio": "1",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "GP739",
+      "url": "board-1-GP739.png",
+      "newShot": false,
+      "lastEdited": 1701229097017,
+      "layers": {
+        "reference": {
+          "url": "board-1-GP739-reference.png",
+          "opacity": 0.75
+        },
+        "ink": {
+          "url": "board-1-GP739-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-1-GP739-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-1-GP739-fill.png"
+        },
+        "tone": {
+          "url": "board-1-GP739-tone.png"
+        },
+        "pencil": {
+          "url": "board-1-GP739-pencil.png"
+        },
+        "notes": {
+          "url": "board-1-GP739-notes.png"
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "lineMileage": 13697.352377268911
+    },
+    {
+      "uid": "EYUTQ",
+      "url": "board-2-EYUTQ.png",
+      "newShot": false,
+      "lastEdited": 1701229301247,
+      "layers": {
+        "reference": {
+          "url": "board-2-EYUTQ-reference.png",
+          "opacity": 0.75
+        },
+        "ink": {
+          "url": "board-2-EYUTQ-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-2-EYUTQ-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-2-EYUTQ-fill.png"
+        },
+        "tone": {
+          "url": "board-2-EYUTQ-tone.png"
+        },
+        "pencil": {
+          "url": "board-2-EYUTQ-pencil.png"
+        },
+        "notes": {
+          "url": "board-2-EYUTQ-notes.png"
+        }
+      },
+      "number": 2,
+      "shot": "2A",
+      "time": 2000,
+      "lineMileage": 9291.133841576122
+    },
+    {
+      "uid": "DXF3N",
+      "url": "board-3-DXF3N.png",
+      "newShot": false,
+      "lastEdited": 1701229367447,
+      "layers": {
+        "ink": {
+          "url": "board-3-DXF3N-ink.png"
+        },
+        "notes": {
+          "url": "board-3-DXF3N-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-3-DXF3N-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-3-DXF3N-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-3-DXF3N-fill.png"
+        },
+        "tone": {
+          "url": "board-3-DXF3N-tone.png"
+        },
+        "pencil": {
+          "url": "board-3-DXF3N-pencil.png"
+        }
+      },
+      "number": 3,
+      "shot": "3A",
+      "time": 4000,
+      "lineMileage": 16225.646103838637
+    },
+    {
+      "uid": "D9522",
+      "url": "board-4-D9522.png",
+      "newShot": false,
+      "lastEdited": 1701229626630,
+      "layers": {
+        "ink": {
+          "url": "board-4-D9522-ink.png"
+        },
+        "notes": {
+          "url": "board-4-D9522-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-4-D9522-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-4-D9522-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-4-D9522-fill.png"
+        },
+        "tone": {
+          "url": "board-4-D9522-tone.png"
+        },
+        "pencil": {
+          "url": "board-4-D9522-pencil.png"
+        }
+      },
+      "number": 4,
+      "shot": "4A",
+      "time": 6000,
+      "lineMileage": 33498.20715929808
+    },
+    {
+      "uid": "7GB9F",
+      "url": "board-7-7GB9F.png",
+      "newShot": false,
+      "lastEdited": 1701312306689,
+      "layers": {
+        "notes": {
+          "url": "board-7-7GB9F-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-7-7GB9F-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-7-7GB9F-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-7-7GB9F-fill.png"
+        },
+        "tone": {
+          "url": "board-7-7GB9F-tone.png"
+        },
+        "pencil": {
+          "url": "board-7-7GB9F-pencil.png"
+        },
+        "ink": {
+          "url": "board-7-7GB9F-ink.png"
+        }
+      },
+      "number": 5,
+      "shot": "5A",
+      "time": 8000,
+      "lineMileage": 78956.70166955458
+    },
+    {
+      "uid": "ARNVA",
+      "url": "board-6-ARNVA.png",
+      "newShot": false,
+      "lastEdited": 1701312444246,
+      "layers": {
+        "notes": {
+          "url": "board-6-ARNVA-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-6-ARNVA-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-6-ARNVA-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-6-ARNVA-fill.png"
+        },
+        "tone": {
+          "url": "board-6-ARNVA-tone.png"
+        },
+        "pencil": {
+          "url": "board-6-ARNVA-pencil.png"
+        },
+        "ink": {
+          "url": "board-6-ARNVA-ink.png"
+        }
+      },
+      "number": 6,
+      "shot": "6A",
+      "time": 10000,
+      "lineMileage": 39528.499112411344
+    },
+    {
+      "uid": "2NEFU",
+      "url": "board-6-2NEFU.png",
+      "newShot": false,
+      "lastEdited": 1701230316000,
+      "layers": {
+        "notes": {
+          "url": "board-6-2NEFU-notes.png"
+        }
+      },
+      "number": 7,
+      "shot": "7A",
+      "time": 12000,
+      "lineMileage": 10777.32651211606
+    },
+    {
+      "uid": "OHMUW",
+      "url": "board-7-OHMUW.png",
+      "newShot": false,
+      "lastEdited": 1701230521113,
+      "layers": {
+        "notes": {
+          "url": "board-7-OHMUW-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-7-OHMUW-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-7-OHMUW-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-7-OHMUW-fill.png"
+        },
+        "tone": {
+          "url": "board-7-OHMUW-tone.png"
+        },
+        "pencil": {
+          "url": "board-7-OHMUW-pencil.png"
+        },
+        "ink": {
+          "url": "board-7-OHMUW-ink.png"
+        }
+      },
+      "number": 8,
+      "shot": "8A",
+      "time": 14000,
+      "lineMileage": 19660.89184317645
+    },
+    {
+      "uid": "CH6CD",
+      "url": "board-8-CH6CD.png",
+      "newShot": false,
+      "lastEdited": 1701230609053,
+      "layers": {
+        "notes": {
+          "url": "board-8-CH6CD-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-8-CH6CD-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-8-CH6CD-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-8-CH6CD-fill.png"
+        },
+        "tone": {
+          "url": "board-8-CH6CD-tone.png"
+        },
+        "pencil": {
+          "url": "board-8-CH6CD-pencil.png"
+        },
+        "ink": {
+          "url": "board-8-CH6CD-ink.png"
+        }
+      },
+      "number": 9,
+      "shot": "9A",
+      "time": 16000,
+      "lineMileage": 28569.78005755081
+    },
+    {
+      "uid": "PS40F",
+      "url": "board-9-PS40F.png",
+      "newShot": false,
+      "lastEdited": 1701230684355,
+      "layers": {
+        "notes": {
+          "url": "board-9-PS40F-notes.png"
+        },
+        "ink": {
+          "url": "board-9-PS40F-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-9-PS40F-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-9-PS40F-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-9-PS40F-fill.png"
+        },
+        "tone": {
+          "url": "board-9-PS40F-tone.png"
+        },
+        "pencil": {
+          "url": "board-9-PS40F-pencil.png"
+        }
+      },
+      "number": 10,
+      "shot": "10A",
+      "time": 18000,
+      "lineMileage": 15486.51005852928
+    },
+    {
+      "uid": "76F58",
+      "url": "board-10-76F58.png",
+      "newShot": false,
+      "lastEdited": 1701310303069,
+      "layers": {
+        "notes": {
+          "url": "board-10-76F58-notes.png"
+        },
+        "ink": {
+          "url": "board-10-76F58-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-10-76F58-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-10-76F58-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-10-76F58-fill.png"
+        },
+        "tone": {
+          "url": "board-10-76F58-tone.png"
+        },
+        "pencil": {
+          "url": "board-10-76F58-pencil.png"
+        }
+      },
+      "number": 11,
+      "shot": "11A",
+      "time": 20000,
+      "lineMileage": 34974.40877788283
+    },
+    {
+      "uid": "CX3U5",
+      "url": "board-11-CX3U5.png",
+      "newShot": false,
+      "lastEdited": 1701310738899,
+      "layers": {
+        "ink": {
+          "url": "board-11-CX3U5-ink.png"
+        },
+        "fill": {
+          "url": "board-11-CX3U5-fill.png"
+        },
+        "notes": {
+          "url": "board-11-CX3U5-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-11-CX3U5-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-11-CX3U5-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-11-CX3U5-tone.png"
+        },
+        "pencil": {
+          "url": "board-11-CX3U5-pencil.png"
+        }
+      },
+      "number": 12,
+      "shot": "12A",
+      "time": 22000,
+      "lineMileage": 28756.991646132617
+    },
+    {
+      "uid": "QANT8",
+      "url": "board-12-QANT8.png",
+      "newShot": false,
+      "lastEdited": 1701311328989,
+      "layers": {
+        "ink": {
+          "url": "board-12-QANT8-ink.png"
+        },
+        "fill": {
+          "url": "board-12-QANT8-fill.png"
+        },
+        "notes": {
+          "url": "board-12-QANT8-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-12-QANT8-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-12-QANT8-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-12-QANT8-tone.png"
+        },
+        "pencil": {
+          "url": "board-12-QANT8-pencil.png"
+        }
+      },
+      "number": 13,
+      "shot": "13A",
+      "time": 24000,
+      "lineMileage": 32287.697130392873
+    },
+    {
+      "uid": "7I9DE",
+      "url": "board-13-7I9DE.png",
+      "newShot": false,
+      "lastEdited": 1701312856718,
+      "layers": {
+        "ink": {
+          "url": "board-13-7I9DE-ink.png"
+        },
+        "fill": {
+          "url": "board-13-7I9DE-fill.png"
+        },
+        "notes": {
+          "url": "board-13-7I9DE-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-13-7I9DE-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-13-7I9DE-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-13-7I9DE-tone.png"
+        },
+        "pencil": {
+          "url": "board-13-7I9DE-pencil.png"
+        }
+      },
+      "number": 14,
+      "shot": "14A",
+      "time": 26000,
+      "lineMileage": 36821.811450520356
+    },
+    {
+      "uid": "LZLNE",
+      "url": "board-13-LZLNE.png",
+      "newShot": false,
+      "lastEdited": 1701311868177,
+      "layers": {
+        "notes": {
+          "url": "board-13-LZLNE-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-13-LZLNE-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-13-LZLNE-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-13-LZLNE-fill.png"
+        },
+        "tone": {
+          "url": "board-13-LZLNE-tone.png"
+        },
+        "pencil": {
+          "url": "board-13-LZLNE-pencil.png"
+        },
+        "ink": {
+          "url": "board-13-LZLNE-ink.png"
+        }
+      },
+      "number": 15,
+      "shot": "15A",
+      "time": 28000,
+      "lineMileage": 31838.49018345563
+    },
+    {
+      "uid": "FCMWO",
+      "url": "board-14-FCMWO.png",
+      "newShot": false,
+      "lastEdited": 1701312064374,
+      "layers": {
+        "notes": {
+          "url": "board-14-FCMWO-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-14-FCMWO-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-14-FCMWO-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-14-FCMWO-fill.png"
+        },
+        "tone": {
+          "url": "board-14-FCMWO-tone.png"
+        },
+        "pencil": {
+          "url": "board-14-FCMWO-pencil.png"
+        },
+        "ink": {
+          "url": "board-14-FCMWO-ink.png"
+        }
+      },
+      "number": 16,
+      "shot": "16A",
+      "time": 30000,
+      "lineMileage": 39868.19269368565
+    },
+    {
+      "uid": "J4P8L",
+      "url": "board-15-J4P8L.png",
+      "newShot": false,
+      "lastEdited": 1701312131945,
+      "layers": {
+        "fill": {
+          "url": "board-15-J4P8L-fill.png"
+        }
+      },
+      "number": 17,
+      "shot": "17A",
+      "time": 32000,
+      "lineMileage": 4343.734170987349
+    },
+    {
+      "uid": "9OUM5",
+      "url": "board-16-9OUM5.png",
+      "newShot": false,
+      "lastEdited": 1701312162652,
+      "layers": {
+        "fill": {
+          "url": "board-16-9OUM5-fill.png"
+        },
+        "shot-generator": {
+          "url": "board-16-9OUM5-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-16-9OUM5-reference.png",
+          "opacity": 0.75
+        },
+        "tone": {
+          "url": "board-16-9OUM5-tone.png"
+        },
+        "pencil": {
+          "url": "board-16-9OUM5-pencil.png"
+        },
+        "ink": {
+          "url": "board-16-9OUM5-ink.png"
+        },
+        "notes": {
+          "url": "board-16-9OUM5-notes.png"
+        }
+      },
+      "number": 18,
+      "shot": "18A",
+      "time": 34000,
+      "lineMileage": 22932.25508590481
+    }
+  ]
+}

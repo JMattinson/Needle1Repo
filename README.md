@@ -1,1 +1,2 @@
-# Needle1Repo
+# FOWRepo
+This repository covers the major files for "Fish out of water" The branches are pulls for character files, for later use. Sound effects & textures used are in the appropriate folders, and "Project" folder covers Adobe after effects files & autosaves.
