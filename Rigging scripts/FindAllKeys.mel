@@ -1,0 +1,22 @@
+//*************************************************************************************************************
+// GET ALL KEYED OBJECTS
+//*************************************************************************************************************
+//Long story short, this finds every keyframe for every object in the scene, and highlights them in the animation editor. verry usefull for say, correcting timing.
+global proc jh_getKeyObjs()
+{
+  string $objects[] = `ls -dagObjects`;     //Create an array with all dag objects in the scene
+
+  select -cl;                               //Clear selection
+  for ($i=0; $i < `size $objects`; $i++)    //For each object in the $objects array
+  {
+    //If the objects has keyframe values at the current time, toggle-select it
+    if(`keyframe -query -keyframeCount $objects[$i]` != 0)
+    {
+      print ($objects[$i] + " ");
+      select -tgl $objects[$i];
+    }
+  }
+}
+
+jh_getKeyObjs;
+

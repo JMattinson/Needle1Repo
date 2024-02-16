@@ -1,0 +1,5 @@
+//this script finds all influencing bones on a selected mesh, usefull if you want to transfer weights.
+
+string $sel[] = `ls -sl`;
+string $inf[] = `skinCluster -q -inf(findRelatedSkinCluster($sel[0]))`;
+select -r $inf;

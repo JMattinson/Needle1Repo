@@ -12,3 +12,9 @@ This repository covers the major files for "Fish out of water" The branches are 
 -finished up the Golem rig, and gave him a face :) more minor touch ups to Needle's rig. turned out I had some more constraints to clean up, so the hands & feet actually follow the RK when keyed.
 
 -This took longer than I hoped, so I was only able to Block out the 1st half of the animation. pushing myself with more action, hopefully it'll help me become a better animator, fingers crossed. 
+
+2/2/2024
+-Finished the animation today! since last week I built out the scene using a combination of houdini digital assets & hand modeled objects. wound up going with a stepped animation style, as it let me focus on better poses, and less fuss on in-betweens. included the houdini files, since they wound up pretty small (surprising for the dirt sim)
+
+02/09/2024
+Added proper descriptions of each MEL and python script. Also added the Script file, forgot that was outside of the repo :/ Each script contains a brief description of it's fuction, more complex scripts describe what needs done before running, and runs through a step -by- step of what it's doing.
