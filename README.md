@@ -18,3 +18,6 @@ This repository covers the major files for "Fish out of water" The branches are 
 
 02/09/2024
 Added proper descriptions of each MEL and python script. Also added the Script file, forgot that was outside of the repo :/ Each script contains a brief description of it's fuction, more complex scripts describe what needs done before running, and runs through a step -by- step of what it's doing.
+
+02/23/2024
+Started work on 3rd animation. started assembling new scene, and created an empty vending machine, alongside a digital asset to generate an array of snacks to populate it.
